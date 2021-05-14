@@ -1,8 +1,5 @@
 {
-  "is_flower_available": [
-      true
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "flowers": {
+    "available": true
+    }
 }
