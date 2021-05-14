@@ -1,9 +1,6 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
+  "is_flower_available": [
+      true
   ],
   "profile": {
     "name": "typicode"
